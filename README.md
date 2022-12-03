@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi Connections ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Mustak 👨‍🎓
 
-<!--
-**Mustak-Ahmed/Mustak-Ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="414" height="320" />
+</p>
 
-Here are some ideas to get you started:
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Mustak-Ahmed)
+[![Linkedin Badge](https://img.shields.io/badge/-sourav%20dinda-green?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mustak-ahmed-5b53a4179/)](https://www.linkedin.com/in/mustak-ahmed-5b53a4179/) 
+<div>
+ <p>
+  <img width="240" height="230" align='right' src="https://github.com/Mustak-Ahmed/Mustak-Ahmed/blob/main/118543317_1468296280020170_963459639370980030_n.jpg"> 
+</p>
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
