@@ -38,6 +38,36 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
 
+ ## My Hobbies ✍
+
+<img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
+Having a hobby is a <b>great thing</b> for each and everyone because it not only entertains you, but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of Technical articles  I have also started writing so that I could make my hobby as my profession . I love to spend some time with my besties .
+
+
+
+##
+
+
+
+ 
+## Quick Overview 📝
+ 
+ <a href="https://github.com/Mustak-Ahmed/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=souravdinda&show_icons=true&include_all_commits=true&theme=radical" alt="Mustak's github stats" />
+</a>
+<a href="https://github.com/Mustak-Ahmed/github-readme-stats">
+ 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mustak-Ahmed&layout=compact&theme=radical" />
+</a>
+
+###
+
+<b>My GitHub contributions as a Game of Life</b>
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/Mustak-Ahmed.gif?z=6)](https://github4life.herokuapp.com/Mustak-Ahmed)
+
+##
+
 
 
 
