@@ -53,7 +53,7 @@ Having a hobby is a <b>great thing</b> for each and everyone because it not only
 ## Quick Overview 📝
  
  <a href="https://github.com/Mustak-Ahmed/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=souravdinda&show_icons=true&include_all_commits=true&theme=radical" alt="Mustak's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Mustak-Ahmed&show_icons=true&include_all_commits=true&theme=radical" alt="Mustak's github stats" />
 </a>
 <a href="https://github.com/Mustak-Ahmed/github-readme-stats">
  
