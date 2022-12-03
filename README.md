@@ -26,6 +26,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
 [![Jenkins](https://img.shields.io/badge/-Jenkins-326CE5?style=flat-square&logo=Jenkins&logoColor=ffffff)](https://jenkins.io/)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 [![Terraform](https://img.shields.io/badge/-terraform-326CE5?style=flat-square&logo=terraform&logoColor=000000)](https://terraform.io/)
